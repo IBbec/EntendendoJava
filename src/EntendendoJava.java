@@ -13,9 +13,9 @@ public class EntendendoJava {
         //ARRAY são conjuntos de objetos semelhantes.
 
         int var1;// essa instrução declara uma variável do TIPO inteiro, até 10 casas numéricas
-        var1 = 1024;
+        var1 = 1028;
         System.out.println("var1 contains " + var1);
-       //consegui executar esse programa e o retorno foi "var1 contains 1024"
+       //consegui executar esse programa e o retorno foi "var1 contains 1028"
     
     }
 }
