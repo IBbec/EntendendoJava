@@ -1,6 +1,6 @@
 //public é um modificador de acesso e informa que a classe pode ser acessada por um código fora dela. Oposto dele é private.
 //o nome da minha classe é "EntendendoJava" e o nome do arquivo deve ser o mesmo, como visto ao lado em "src".
-public class EntendendoJava {
+public class EntendendoJava{
     //static é uma palavra chave e permite que main seja chamado antes que um objeto da classe tenha sido criado.
     //void apenas informa ao compilador que main não retorna um valor.
     //main é um método, a partir dele o programa será executado.
